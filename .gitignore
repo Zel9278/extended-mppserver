@@ -1,0 +1,4 @@
+node_modules/
+src/db/
+config.js
+src/Server copy.js
